@@ -16,19 +16,7 @@ const mainBody = {
       url: "https://github.com/ezrj",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.google.com/",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.google.com/",
-    },
-    {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/ezrajeter/",
-    },
-    {
-      image: "fa-twitter",
       url: "https://www.linkedin.com/in/ezrajeter/",
     },
   ],
@@ -51,8 +39,8 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/updatedwimpykidcopy.JPG"),
-  imageSize: 375,
+  imageLink: require("/Users/VPDiddy/Desktop/home-master/src/editable-stuff/updatedwimpykidcopy.JPG"),
+  imageSize: 450,
   message:
     "My name is Ezra Jeter. I am a computer engineering major at Texas A&M University. I enjoy solving problems, learning new things, and long walks on the beach. ",
   resume: "https://docs.google.com/document/d/1sGSlxGX9mVve7tX1sesGkt9JjJSwxh2bu6Uw1CoMcOw/edit?usp=sharing",
