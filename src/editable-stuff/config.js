@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: "/editable-stuff/updatedwimpykidcopy.JPG",
+  imageLink: require("../editable-stuff/updatedwimpykidcopy.png"),
   imageSize: 450,
   message:
     "My name is Ezra Jeter. I am a computer engineering major at Texas A&M University. I enjoy solving problems, learning new things, and long walks on the beach. ",
