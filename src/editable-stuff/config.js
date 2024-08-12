@@ -55,7 +55,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "ezrj", //i.e."johnDoe12Gh"
-  reposLength: 6,
+  reposLength: 8,
   specificRepos: [],
 };
 
@@ -85,37 +85,37 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: false,
+  show: true,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
     { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "Verilog", value: 70 },
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
+    { name: "JavaScript", value: 80 },
     { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "HTML/CSS", value: 80 },
+    { name: "C#", value: 70 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Hard Working", value: 95 },
+    { name: "Driven", value: 90 },
+    { name: "Detail Oriented", value: 85 },
+    { name: "People Person", value: 95 },
+    { name: "Problem Solving", value: 90 },
+    { name: "Quick Learner", value: 80 },
+    { name: "Organization", value: 85 },
+    { name: "Creativity", value: 85 },
   ],
 };
 
 // GET IN TOUCH SECTION
 const getInTouch = {
-  show: false,
+  show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for careers in engineering, software development, or security",
+  email: "ezra@tamu.edu",
 };
 
 const experiences = {
