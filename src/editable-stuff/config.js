@@ -114,7 +114,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for careers in engineering, software development, or security",
+    "I'm currently looking for careers in engineering, software development, or security. You can reach me at my email",
   email: "ezra@tamu.edu",
 };
 
