@@ -26,7 +26,7 @@ const Footer = (props) => {
             version.
           </small>
         </p>
-        */}code
+        */}
       </Container>
     </footer>
   );
